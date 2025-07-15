@@ -1,3 +1,10 @@
+2.13.1
+- Fix incorrect tunnel flag size
+  which causes hang at 4x tunnel traffic test
+
+2.13.0
+- Rework tunnel structure to unidirection
+
 2.12.2
 - Increase max dequeue list to 64
 - Reduce DCCM session act to 1st session
