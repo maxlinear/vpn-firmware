@@ -1,3 +1,6 @@
+2.13.2
+- Increase context size to 64-words
+
 2.13.1
 - Fix incorrect tunnel flag size
   which causes hang at 4x tunnel traffic test
