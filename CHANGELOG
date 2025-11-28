@@ -1,3 +1,6 @@
+2.13.3
+- Restructure VPN live counter to a more friendlier name
+
 2.13.2
 - Increase context size to 64-words
 
